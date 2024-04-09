@@ -2,11 +2,11 @@
 
 Jahodka je: velka cervena
 
-*cervena
-*sladka
+Jahodka je:
 
-nove riadky pre commit s lokal tv
+*djk
+*cdc
 
-skuska
+nove riadky pre commit s local PC
 
-bla bla bla
+skuska commitu po zmene usrname a mail v gite.
