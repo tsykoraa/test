@@ -1,5 +1,5 @@
 # test
-## Ahoj 
+## Ahoj ako sa mas 
 1. First item
 2. Second item
 3. Third item
@@ -9,7 +9,6 @@
 
 Skusam dalsi commit
 ajkhjkhkjh
-jkhkjhkjhjkh
 jkljlkjlkj
 kjljlkjlkjkl
 lok;k;lk;lk
