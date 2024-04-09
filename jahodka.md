@@ -4,3 +4,5 @@ Jahodka je:
 
 *djk
 *cdc
+
+nove riadky pre commit s local PC
