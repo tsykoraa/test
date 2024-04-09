@@ -1,10 +1,12 @@
-## Toto je jahodka
+## Toto
 
-Jahodka je:
+Jahodka je: velka cervena
 
-*djk
-*cdc
+*cervena
+*sladka
 
-nove riadky pre commit s local PC
+nove riadky pre commit s lokal tv
 
-skuska commitu po zmene usrname a mail v gite.
+skuska
+
+bla bla bla
