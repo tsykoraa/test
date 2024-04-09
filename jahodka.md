@@ -6,3 +6,5 @@ Jahodka je:
 *cdc
 
 nove riadky pre commit s local PC
+
+skuska commitu po zmene usrname a mail v gite.
