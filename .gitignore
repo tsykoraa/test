@@ -1,1 +1,8 @@
-basnicka.md
+.idea
+.vscode
+*.iml
+*.exe
+*.css
+*.class
+*.sh
+"temporary"
