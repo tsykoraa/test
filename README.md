@@ -4,11 +4,7 @@
 1. First item
 ~~2. Second item~~
 ~~3. Third item~~
-~~    1. Indented item~~
-~~    2. Indented item~~
-4. Fourth item
-
-nm,nm,,.m,.m,.m.m.m.m.m.  
+~~    1. Indented item
 
 # Toto mi povedalo chat GPT
 ```
